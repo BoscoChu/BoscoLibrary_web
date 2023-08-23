@@ -8,10 +8,10 @@ Full Stack Web Development Projects(Library) for practicing programming skills a
 
 # Preview
 * User Account
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=-Rx0ubryeuo&ab_channel=WaikitChu)
+[![Watch the video](https://upload.cc/i1/2023/08/23/c0HVUl.png)](https://www.youtube.com/watch?v=-Rx0ubryeuo&ab_channel=WaikitChu)
 
 * Admin Account
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://upload.cc/i1/2023/08/23/c0HVUl.png)](https://www.youtube.com/watch?v=auWEBgB9E40&ab_channel=WaikitChu)
 
 
 
