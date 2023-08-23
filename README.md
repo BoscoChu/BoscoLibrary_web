@@ -7,10 +7,10 @@ Full Stack Web Development Projects(Library) for practicing programming skills a
 ## https://d3lijaw0qr3icp.cloudfront.net/home
 
 # Preview
-* User Account (Click the Pickture to watch video)
+* User Account (Click the picture to watch video)
 [![Watch the video](https://upload.cc/i1/2023/08/23/c0HVUl.png)](https://www.youtube.com/watch?v=-Rx0ubryeuo&ab_channel=WaikitChu)
 
-* Admin Account (Click the Pickture to watch video)
+* Admin Account (Click the picture to watch video)
 [![Watch the video](https://upload.cc/i1/2023/08/23/c0HVUl.png)](https://www.youtube.com/watch?v=auWEBgB9E40&ab_channel=WaikitChu)
 
 
