@@ -31,6 +31,14 @@ Full Stack Web Development Projects(Library) for practicing programming skills a
 * Maven
 * Database: MySQL
 * Authentication: Okta
+#### Design:
+*  Model
+*  Utils
+*  Dao
+*  Service
+*  Controller
+  
+
 
 ## Deployment
 Cloud Computing Services - Amazon Web Services (AWS)
