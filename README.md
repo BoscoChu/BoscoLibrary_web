@@ -28,7 +28,7 @@ Full Stack Web Development Projects(Library) for practicing programming skills a
 * Spring Boot 2.7.12
 * Maven
 * Database: MySQL
-* Authentication: Okta
+* Authentication: Okta(Email Verification)
 #### Design:
 *  Model
 *  Utils
