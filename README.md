@@ -1,19 +1,17 @@
 
 # BoscoLibrary(Website)_sideproject
-Full Stack Web Development Projects(Library) for practicing programming skills and deploying website to cloud computing services (Amazon Web Services).
+Full Stack Web Development Projects(Library) for practicing programming skills and Website deployment using cloud computing services (Amazon Web Services).
 
 
 # Website
 ## https://d3lijaw0qr3icp.cloudfront.net/home
 
-# Preview
+# Video Preview
 * User Account (Click the picture to watch video)
 [![Watch the video](https://upload.cc/i1/2023/08/23/c0HVUl.png)](https://www.youtube.com/watch?v=-Rx0ubryeuo&ab_channel=WaikitChu)
 
 * Admin Account (Click the picture to watch video)
 [![Watch the video](https://upload.cc/i1/2023/08/23/c0HVUl.png)](https://www.youtube.com/watch?v=auWEBgB9E40&ab_channel=WaikitChu)
-
-
 
 
 
