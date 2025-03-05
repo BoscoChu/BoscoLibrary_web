@@ -4,7 +4,7 @@ Full Stack Web Development Projects(Library) for practicing programming skills a
 
 
 # Website
-## https://d3lijaw0qr3icp.cloudfront.net/home
+## https://d3lijaw0qr3icp.cloudfront.net/home(Invalid)
 
 # Video Preview
 * User Account (Click the picture to watch video)
@@ -66,4 +66,4 @@ Cloud Computing Services - Amazon Web Services (AWS)
 
 * WhatsApp: **+852 54068075**  **[(CLICK HERE TO CHAT)](https://wa.me/85254068075)** 
 
-* Website : https://d3lijaw0qr3icp.cloudfront.net/home
+* Website : https://yellow-desert-059d97d00.6.azurestaticapps.net/
